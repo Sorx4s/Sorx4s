@@ -5,6 +5,6 @@
 
 ### 🎓 Educación 
 - Estudiante en ingenieria en sistemas computacionales (2022 - actualidad)
-- Bootcamp  Full-stack JavaScript Developer - Guillermo Rodas en [Undefined Academy](https://undefined.academy/).
+- Aprendiz en Bootcamp  Full-stack JavaScript Developer - Guillermo Rodas en [Undefined Academy](https://undefined.academy/).
 
 
